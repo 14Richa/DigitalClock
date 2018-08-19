@@ -1,0 +1,14 @@
+/* CSS File for Digital Clock
+Author: Richa Sharma,
+Creation Date: 30 July 2018
+*/
+body {
+	font-family: 'lato';
+	margin-top: 250px;
+	text-align: center;
+	background-color: #FFDBAC;
+}
+#clock {
+	font-weight: 300;
+	font-size: 110px;
+}
